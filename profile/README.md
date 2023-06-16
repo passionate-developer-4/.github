@@ -7,7 +7,8 @@
 
 |      일정      |      진행상태      |      차수      |      내용      |      repository      |
 |:------------:|:------------:|:------------:|:------------:|:------------:|
-| 2023.03.28 (화) ~ | 진행중 | 1차 | [EffectiveJava] 이펙티브 자바 1부 | [effective-java-1](https://github.com/passionate-developer-2023/effective-java-1)
+| 2023.03.28 (화) ~ 2023.06.15 (목)| 완료 | 1차 | [EffectiveJava] 이펙티브 자바 1부 | [effective-java-1](https://github.com/passionate-developer-2023/effective-java-1)
+| 2023.07.06 (목) ~ | 예정 | 2차 | [EffectiveJava] 이펙티브 자바 2부 | [effective-java-1](https://github.com/passionate-developer-2023/effective-java-2)
 
 <br />
 
@@ -18,3 +19,6 @@
 - 매주 화요일 1시~2시로 알고있자. (팀즈 가능, 유동적 변경 가능)
 - 전날 저녁까지는 댓글 달자.
 - 따로 정리한게 있으면 반드시 공유하자.
+
+> [2차 스터디부터 추가 규칙]
+- 4명이서 순서대로 주차별로 내용 발표
