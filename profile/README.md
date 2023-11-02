@@ -8,7 +8,7 @@
 |      일정      |      진행상태      |      차수      |      내용      |      repository      |
 |:------------:|:------------:|:------------:|:------------:|:------------:|
 | 2023.03.28 (화) ~ 2023.06.15 (목)| 완료 | 1차 | [EffectiveJava] 이펙티브 자바 1부 | [effective-java-1](https://github.com/passionate-developer-2023/effective-java-1)
-| 2023.07.13 (목) ~ | 예정 | 2차 | [EffectiveJava] 이펙티브 자바 2부 | [effective-java-2](https://github.com/passionate-developer-2023/effective-java-2)
+| 2023.07.13 (목) ~ 2023.11.02 (목)| 완료 | 2차 | [EffectiveJava] 이펙티브 자바 2부 | [effective-java-2](https://github.com/passionate-developer-2023/effective-java-2)
 
 <br />
 
