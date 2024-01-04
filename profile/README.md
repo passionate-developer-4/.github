@@ -9,6 +9,7 @@
 |:------------:|:------------:|:------------:|:------------:|:------------:|
 | 2023.03.28 (화) ~ 2023.06.15 (목)| 완료 | 1차 | [EffectiveJava] 이펙티브 자바 1부 | [effective-java-1](https://github.com/passionate-developer-2023/effective-java-1)
 | 2023.07.13 (목) ~ 2023.11.02 (목)| 완료 | 2차 | [EffectiveJava] 이펙티브 자바 2부 | [effective-java-2](https://github.com/passionate-developer-2023/effective-java-2)
+| 2024.01.04 (목) ~ | 진행중 | 3차 | SpringBatch | [springbatch](https://github.com/passionate-developer-4/springbatch)
 
 <br />
 
@@ -22,3 +23,6 @@
 
 > [2차 스터디부터 추가 규칙]
 - 4명이서 순서대로 주차별로 내용 발표
+
+> [3차 스터디부터 추가 규칙]
+- 발표자는 스터디 당일 사다리타기로 랜덤으로 정하기
